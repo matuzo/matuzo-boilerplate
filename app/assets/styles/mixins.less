@@ -1,0 +1,12 @@
+.m-listreset() {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.smaller-sprite(@name, @factor) {
+	background-size: (@spritesheet-width / @factor) (@spritesheet-height / @factor);
+	background-position: (extract(@name, 3) / @factor) (extract(@name, 4) / @factor);
+	width: extract(@name, 5) / @factor;
+	height: extract(@name, 6) / @factor;
+}

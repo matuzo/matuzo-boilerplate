@@ -1,0 +1,2 @@
+<?php
+	$sitename = "My Website";

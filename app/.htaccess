@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteRule ^([a-z]+)/([a-z]+)?$ index.php [NC,L,QSA]
+  RewriteRule ^([a-z]+)/?$ index.php [NC,L,QSA]
+</IfModule>

@@ -1,0 +1,1154 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"matu",
+				"matuzo-boilerplate/"
+			],
+			[
+				"setTime",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"current",
+				"currentProjectId"
+			],
+			[
+				"p",
+				"plyr/"
+			],
+			[
+				"trna",
+				"transition"
+			],
+			[
+				"first",
+				"firstProject"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"trans",
+				"transition	(modules.less)"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"query",
+				"querySelector	(scripts.js)"
+			],
+			[
+				"st",
+				"styles-critical.css"
+			],
+			[
+				"d",
+				"dist/"
+			],
+			[
+				"backgr",
+				"background	(modules.less)"
+			],
+			[
+				"vok",
+				"vokabel_bks"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"flex",
+				"flexGrow	Style CSS"
+			],
+			[
+				"text",
+				"textContent	Node"
+			],
+			[
+				"container",
+				"containerWidth"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-repeat"
+			],
+			[
+				"na",
+				"nav_socialmedia"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"icon",
+				"icon_calendar_hover"
+			],
+			[
+				"section",
+				"section_headline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"bootstrap-theme.css"
+			],
+			[
+				"public",
+				"public_path"
+			],
+			[
+				"pub",
+				"public/"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"bac",
+				"background	(modules.less)"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ve",
+				"vendor"
+			],
+			[
+				"setT",
+				"setTimeout(${0:func}, delay)	Window"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"insta",
+				"instafeed.min.js"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"Dis",
+				"District"
+			],
+			[
+				"locatio",
+				"locations"
+			],
+			[
+				"meta",
+				"meta_vegetarian"
+			],
+			[
+				"add",
+				"address_detail"
+			],
+			[
+				"Pages",
+				"PagesController@index"
+			],
+			[
+				"Reques",
+				"Requests"
+			],
+			[
+				"We",
+				"WelcomeController@index"
+			],
+			[
+				"m",
+				"matuzovic@sae"
+			],
+			[
+				"php",
+				"phpmailer/"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"Next",
+				"nextProject"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"move",
+				"movement"
+			],
+			[
+				"project",
+				"project_current"
+			],
+			[
+				"target",
+				"targetProject"
+			],
+			[
+				"tar",
+				"targetProject"
+			],
+			[
+				"next",
+				"nextProject"
+			],
+			[
+				"curren",
+				"currentIndex"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"animati",
+				"animating"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"border-botto",
+				"border-bottom-left-radius"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"conten",
+				"contentwrapper"
+			],
+			[
+				"mult",
+				"multimedia"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"float",
+				"float:left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ra",
+				"raty"
+			],
+			[
+				"deliver",
+				"delivery_hotel"
+			],
+			[
+				"newsletter",
+				"newslettercheck"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"evet",
+				"events"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"contr",
+				"controls"
+			],
+			[
+				"show",
+				"showTiles"
+			],
+			[
+				"contribut",
+				"contributor"
+			],
+			[
+				"anim",
+				"animate_position"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"site",
+				"site_globals"
+			],
+			[
+				"contri",
+				"contributors"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list_reset"
+			],
+			[
+				"contribu",
+				"contributor"
+			],
+			[
+				"cont",
+				"contributor"
+			],
+			[
+				"page",
+				"pages"
+			],
+			[
+				"abbre",
+				"abbreviations"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"food",
+				"foodtype_id"
+			],
+			[
+				"foodtype",
+				"foodtype_id"
+			],
+			[
+				"foo",
+				"foodtype"
+			],
+			[
+				"imib",
+				"imbiss_id"
+			],
+			[
+				"imbiss",
+				"imbiss_id"
+			],
+			[
+				"data",
+				"formData"
+			],
+			[
+				"dis",
+				"districts"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Index",
+				"IndexController"
+			],
+			[
+				"Foo",
+				"FoodtypesTableSeeder.php"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"results",
+				"resultsList"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"help",
+				"helpers.js"
+			],
+			[
+				"btn",
+				"btn_menu"
+			],
+			[
+				"assets",
+				"assets/"
+			],
+			[
+				"var",
+				"variante1_div"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cur",
+				"cursor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"last_filter": "reindet",
+		"selected_items":
+		[
+			[
+				"reindet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"glue ",
+				"Glue - Launch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.message_dialog(view.encoding())",
+			"view.encoding()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matuzo/Sites/matuzo-boilerplate",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/styles/modules",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/vendor/apache-server-configs",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/vendor/apache-server-configs/dist",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/inc"
+	],
+	"file_history":
+	[
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/inc/footer.php",
+		"/Users/matuzo/Sites/matuzo-boilerplate/gulp-tasks/scripts.js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/inc/header.php",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/styles/styles.less",
+		"/Users/matuzo/Sites/matuzo-boilerplate/gulp-tasks/styles.js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/js/scripts.js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/styles/base.less",
+		"/Users/matuzo/Sites/matuzo-boilerplate/README.md",
+		"/Users/matuzo/Sites/matuzo-boilerplate/gulpfile.js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/js",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/styles/styles.css",
+		"/Users/matuzo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matuzo/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/assets/styles/helpers.less",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/index.php",
+		"/Users/matuzo/Sites/matuzo-boilerplate/matuzo-boilerplate.sublime-project",
+		"/Users/matuzo/Sites/matuzo-boilerplate/.gitignore",
+		"/Users/matuzo/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/matuzo/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/config.php",
+		"/Users/matuzo/Sites/matuzo-boilerplate/bower.json",
+		"/Users/matuzo/Sites/matuzo-boilerplate/.bowerrc",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app",
+		"/Users/matuzo/Sites/matuzo-boilerplate/app/index.html",
+		"/Users/matuzo/Sites/misphp/gulpfile.js",
+		"/Users/matuzo/Sites/misphp/public/assets/scripts/scripts.js",
+		"/Users/matuzo/Sites/misphp/app/views/master.blade.php",
+		"/Users/matuzo/Sites/misphp/app/assets/custom/js/frontend/backup.js.js",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/EDEE106E-A40F-4BEA-ABA5-601E2B447BB2/.htaccess",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/28953DC6-0790-4B11-82A3-42B2760BA7CF/.htaccess",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/AF820087-3533-4C43-9040-DB9F2816E8D9/modules.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/11CB23E8-5F06-44F1-BD7F-DF6E76F28B71/forms.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/15624CA3-B454-4CE3-AC2B-EB79B42937A4/modules.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/A55635B9-7AB4-4D17-AB1A-0F6D1F80B003/functions.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/2F9BB2F3-BFC5-4842-8D86-74844A8D63AE/content-single.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/C4F200CA-C2C2-4B1B-95EC-82B382806C68/single.php",
+		"/Users/matuzo/Sites/plan/plan.svg",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/C58D0BD7-1435-4AC0-A50A-BFDDCC66CE62/index.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/5461FFE4-CDAB-42D8-89A2-5A35ED3AB659/index.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/D486004F-D7A9-46E8-BEC5-900C092EFA39/index.php",
+		"/Users/matuzo/Desktop/index.html",
+		"/Users/matuzo/Desktop/csstricks.css",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/EE3BF9F6-2723-4AB9-B903-0748631BAB07/index.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/E2FA7807-F9DD-4CAD-9E1D-84BADDCD4100/maps.html",
+		"/Users/matuzo/Desktop/maps.html",
+		"/Users/matuzo/Sites/vokabel/gulp-tasks/scripts.js",
+		"/Users/matuzo/Sites/vokabel/gulp-tasks/copy.js",
+		"/Users/matuzo/Sites/vokabel/package.json",
+		"/Users/matuzo/Sites/vokabel/gulp-tasks/styles.js",
+		"/Users/matuzo/Sites/vokabel/gulpfile.js",
+		"/Users/matuzo/Sites/vokabel/.gitignore",
+		"/Users/matuzo/Sites/vokabel/gulp-tasks/html.js",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/F876966C-B761-48DA-A72D-D818DC1F4DF8/csstricks.css",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/2BB768D6-0FAC-44AB-8631-D08A460AA250/csstricks.css",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/BB356A86-1436-4BB9-BF8C-7F6FD3D50CE2/csstricks.css",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/C1F44D7A-4845-44B9-97BF-0B757C4DB0FE/csstricks.css",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/D30E1FF6-E71F-4CB1-B269-1C898A4F6EFE/index.html",
+		"/Users/matuzo/Documents/Projekte/Paolo/Newsletter/2015/12/user122015",
+		"/Users/matuzo/Documents/Projekte/Paolo/Newsletter/2015/12/user102015",
+		"/Users/matuzo/Sites/vokabel/dist/inc/header.php",
+		"/Users/matuzo/Sites/vokabel/dist/assets/css/styles.css",
+		"/Users/matuzo/Sites/vokabel/dist/assets/css/styles-critical.css",
+		"/Users/matuzo/Sites/vokabel/app/demo.html",
+		"/Users/matuzo/Sites/vokabel/dist/assets/css/style-critical.css",
+		"/Users/matuzo/Sites/vokabel/index.php",
+		"/Users/matuzo/Sites/vokabel/app/inc/footer.php",
+		"/Users/matuzo/Sites/vokabel/app/_index.html",
+		"/Users/matuzo/Sites/vokabel/app/inc/header.php",
+		"/Users/matuzo/Sites/vokabel/app/index.php",
+		"/Users/matuzo/Sites/vokabel/index.html",
+		"/Users/matuzo/Sites/vokabel/dev/.htaccess",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/styles.css",
+		"/Users/matuzo/Sites/vokabel/dist/index.php",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/modules.less",
+		"/Users/matuzo/Sites/vokabel/dev/assets/js/scripts.js",
+		"/Users/matuzo/Sites/vokabel/dev/demo.php",
+		"/Users/matuzo/Sites/vokabel/dev/inc/head.php",
+		"/Users/matuzo/Sites/vokabel/dev/index.php",
+		"/Users/matuzo/Sites/vokabel/dist/.htaccess",
+		"/Users/matuzo/Sites/vokabel/dev/inc/header.php",
+		"/Users/matuzo/Sites/vokabel/dist/inc/header.262be1ff.php",
+		"/Users/matuzo/Sites/vokabel/dist/inc/footer.php",
+		"/Users/matuzo/Sites/vokabel/.bowerrc",
+		"/Users/matuzo/Sites/vokabel/dev/inc/footer.php",
+		"/Users/matuzo/Sites/vokabel/dev/inc/hea.php",
+		"/Users/matuzo/Desktop/praxistest2_2015_08/supi/CSS/css/style.css",
+		"/Users/matuzo/Desktop/praxistest2_2015_08/student/CSS/css/nichtaendern.css",
+		"/Users/matuzo/Desktop/praxistest2_2015_08/student/CSS/css/style.css",
+		"/Users/matuzo/Desktop/praxistest2_2015_08/supi/CSS/css/nichtaendern.css",
+		"/Users/matuzo/Desktop/praxistest2_2015_08/supi/CSS/index.html",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/9233A9F0-4E0E-4E2E-92A6-60E7ECD92C8A/goldDemo.less",
+		"/Users/matuzo/Sites/vokabel/README.md",
+		"/Users/matuzo/Sites/vokabel/dist/assets/css/styles-critical.min.css",
+		"/Users/matuzo/Sites/vokabel/bower_components/houdini/dist/js/houdini.js",
+		"/Users/matuzo/Sites/vokabel/node_modules/nod-validate/nod.js",
+		"/Users/matuzo/Sites/vokabel/dev/inc/getvocab.php",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/collapse.less",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/mixins.less",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/styles.less",
+		"/Users/matuzo/Desktop/test.css",
+		"/Users/matuzo/Sites/vokabel/dev/assets/css/styles-critical.css",
+		"/Users/matuzo/Sites/vokabel/dist/assets/scripts.js",
+		"/Users/matuzo/Sites/vokabel/dist/assets/styles-critical.css",
+		"/Users/matuzo/Sites/vokabel/dist/inc/dbconnect.php",
+		"/Users/matuzo/Sites/vokabel/dist/inc/getvocab.php",
+		"/Users/matuzo/Sites/vokabel/dist/assets/style.css",
+		"/Users/matuzo/Sites/vokabel/backend/dbconnect_tist.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/2A05DE4A-7E38-4207-9190-2FF6F2532248/settings.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/56CED574-BFC9-43FC-85A7-053202A26844/.htaccess",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/3516E5A6-7219-4F13-9FBE-CD82A23D4CFD/image_fupload_imagefield.module",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/8324D200-84BB-4D47-A126-C9771D9A6D67/forms.less",
+		"/Users/matuzo/Sites/vokabel/backend/index.php",
+		"/Users/matuzo/Sites/vokabel/dev/inc/dbconnect.php",
+		"/Users/matuzo/Sites/vokabel/backend/dbconnect.php",
+		"/Users/matuzo/Sites/vokabel/backend/import.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/042F967C-FDB1-4DE4-87C7-659ACBF164FF/sprites.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/5D1BC1E7-297D-4F51-950B-4EDAA085ABDF/goldDemo.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/4DE1DDFD-9092-444C-927A-E22D576BA2D5/tablet.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/488D3807-EAF1-4E0E-BBD9-D9AD8B51C80A/mobile.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/AF6C9D2F-9331-4B6F-B78B-638855E71C2A/goldDemo.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/57387455-124F-49F6-9C65-FF1636B22FD7/sprites.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/7BBAA475-A572-403D-80E1-3A33B33862CD/mobile.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/64F150AB-C818-4E07-ADF3-33E94117D9F5/mobile.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/481F4ACE-DAFD-4F70-BFA2-3BF64D3BB4F3/mobile.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/C9BD9A5E-04B0-4462-8E79-30C61F254B4E/mobile.less",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/102B722E-49D3-4A81-96CA-C2D071CA493A/suche_fr.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/636884FB-DC7A-4E73-9E03-15F4D954E6B4/wmotickets_de.php",
+		"/Users/matuzo/Library/Caches/Cleanup At Startup/Transmit/08EFD893-B2CD-4C0A-AEE2-7F441D35E1A3/wmotickets_de.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/matuzo/Sites/willhabern",
+			"",
+			"/Users/matuzo/Sites/kkh/inc",
+			"inc",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"afn_use_project_root",
+			"project",
+			"aqario.dev",
+			"event",
+			"loadProje",
+			"ani",
+			"detaching",
+			"moveprojets",
+			"restoreRa",
+			"last",
+			"foc",
+			"end ",
+			"end",
+			"focus",
+			"dom",
+			"div",
+			"tooltip",
+			"transi",
+			"setup",
+			"setCurrent",
+			"loadPro",
+			"project ",
+			"projects ",
+			"project ",
+			"srcset",
+			"sizes",
+			"500vw",
+			"1000",
+			"1000px",
+			"projects ",
+			"500vw",
+			"100vw",
+			"1000",
+			"detaching",
+			"test",
+			"updateUrl",
+			"clicked = tr",
+			"clicked",
+			"updateUrl",
+			"clicked",
+			"currentProjectId",
+			"updateUr",
+			"update",
+			"updateURL",
+			"direction",
+			"loadProject(",
+			"loadProject",
+			"state",
+			"history",
+			"History",
+			"updateUrl",
+			"updateURl",
+			"console.",
+			"console.log",
+			"Do ",
+			"showifr",
+			"anymore",
+			"1120",
+			"update",
+			"movement",
+			"moveProjects",
+			"projectstoLoad",
+			"firstProject",
+			"newCurrent",
+			"countclick",
+			"countClick",
+			"clicks",
+			".projects ",
+			".projects",
+			"console.lo",
+			"currentIndex",
+			"aper",
+			"fontd",
+			"prevproj",
+			"loadProject",
+			"project_curre",
+			"append",
+			"{\n",
+			"append",
+			"Append",
+			"ajax",
+			"loadProject",
+			"loadProject ",
+			"append",
+			"project_curre",
+			"projects",
+			"projecttemplate",
+			"projectTemplate",
+			"positionFunction",
+			"append",
+			"addProjectCard",
+			"ajax",
+			"addclass",
+			"current",
+			"NProgress",
+			"width",
+			"getDirectionAndLoadType",
+			"ajax",
+			"removeClas",
+			"getDirectionAndLoadType",
+			"css",
+			"ü",
+			"ü",
+			"ü",
+			"ü",
+			"• ",
+			"ä",
+			"ü",
+			"search-event",
+			"http://matuzo.at",
+			"https://matuzo.at",
+			"http://matuzo",
+			"http://",
+			"http://matuzo.at/",
+			"thumbnail",
+			"smoo",
+			"reqe",
+			"newsletter/2015/10",
+			"replace",
+			"minifyHtml",
+			"Path",
+			"path",
+			"tmpDir",
+			"request",
+			"dev_path",
+			"dist_path",
+			"dev_path",
+			"dev/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\n",
+			"\"../files/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "matuzo-boilerplate.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"imagecache.php",
+				"app/config/packages/intervention/imagecache/config.php"
+			],
+			[
+				"scrip",
+				"app/assets/custom/js/frontend/scripts.js"
+			],
+			[
+				"scripts.",
+				"public/assets/scripts.js"
+			],
+			[
+				"add_comm",
+				"app/database/migrations/2015_09_02_130344_add_commissioned_to_projects.php"
+			],
+			[
+				"gold.l",
+				"css/gold.less"
+			],
+			[
+				"gold.les",
+				"css/gold.less"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"locatio",
+				"app/Http/Controllers/LocationsController.php"
+			],
+			[
+				"location",
+				"app/Location.php"
+			],
+			[
+				"locat",
+				"app/Http/Controllers/LocationsController.php"
+			],
+			[
+				"homeco",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"homecon",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"distr",
+				"app/Http/Controllers/DistrictsController.php"
+			],
+			[
+				"loca",
+				"app/Http/Controllers/LocationsController.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"lo",
+				"app/Http/Controllers/LocationsController.php"
+			],
+			[
+				"typere",
+				"app/Http/Requests/TypeRequest.php"
+			],
+			[
+				"distric",
+				"app/Http/Requests/DistrictRequest.php"
+			],
+			[
+				"typecon",
+				"app/Http/Controllers/TypesController.php"
+			],
+			[
+				"locationc",
+				"app/Http/Controllers/LocationsController.php"
+			],
+			[
+				"routes.p",
+				"app/Http/routes.php"
+			],
+			[
+				"create_dis",
+				"database/migrations/2015_03_26_204353_create_districts_table.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"routes.",
+				"app/Http/routes.php"
+			],
+			[
+				"locationre",
+				"app/Http/Requests/LocationRequest.php"
+			],
+			[
+				"pagesc",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"views/ackend",
+				"resources/views/backend/index.blade.php"
+			],
+			[
+				"pageco",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"contribut",
+				"app/controllers/ContributorController.php"
+			],
+			[
+				"contru",
+				"app/models/Contributor.php"
+			],
+			[
+				"g",
+				"gulpfile.js"
+			],
+			[
+				"index.blade.php",
+				"app/views/backend/index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 429.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

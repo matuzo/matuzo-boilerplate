@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+			"afn_use_project_root": true,
+			"afn_proj_root": "/Users/matuzo/Sites/matuzo-boilerplate/app",
+	}
+}

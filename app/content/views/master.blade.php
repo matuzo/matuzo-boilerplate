@@ -46,6 +46,7 @@
     <!-- endbuild -->
 
     <!-- build:css /assets/styles/styles.css -->
+        <link rel="stylesheet" href="/assets/styles/normalize.css">
         <link rel="stylesheet" href="/assets/styles/styles.css">
     <!-- endbuild -->
 </head>

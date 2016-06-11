@@ -16,6 +16,13 @@ gulp.task('serve', ['js'], function() {
     });
 
     /**
+     * Copy stylesheets from node_modules folder
+     */
+
+    gulp.src('node_modules/normalize.css/normalize.css')
+        .pipe(gulp.dest('app/assets/styles/'))
+
+    /**
     *  Refresh browser if .php, .less or .js files change
     *  Compile less to css
     */

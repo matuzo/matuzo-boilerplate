@@ -86,7 +86,7 @@ For the initial setup on OSX and complete instructions check <https://coolestgui
 
 ### Gulp 
 
-1. Update Line 11 in the [gulpfile](gulpfile.js) and change `proxy` to your local virtual host.
+1. Update Line 14 in the [gulpfile](gulpfile.js) and change `proxy` to your local virtual host.
 
 2. Launch the project with `gulp serve`
 

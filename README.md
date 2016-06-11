@@ -6,23 +6,49 @@ A combination of [Web Startet Kit](https://github.com/google/web-starter-kit), [
 
 ### Dependencies
 
-1. Bower dependencies  
+1. `npm install`
 
-	`bower install`
+	Includes:  
 	
-	Includes: [normalize.css](https://github.com/necolas/normalize.css/), [picturefill](https://github.com/scottjehl/picturefill), [Apache Server Configs](https://github.com/h5bp/server-configs-apache)
+	**Dependencies**
 	
-2. `npm install`
+    * [normalize.css](https://github.com/necolas/normalize.css/)
+    * [picturefill](https://github.com/scottjehl/picturefill)
+    * [Apache Server Configs](https://github.com/h5bp/server-configs-apache)
+    
+    **Dev dependencies**
 
-	Includes: [gulp](https://github.com/gulpjs/gulp), [browser-sync](https://github.com/BrowserSync/browser-sync), [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer), [run-sequence](https://www.npmjs.com/package/run-sequence), [requireDir](https://github.com/aseemk/requireDir), [merge-stream](https://www.npmjs.com/package/merge-stream), [shint-stylish](https://www.npmjs.com/package/jshint-stylish), [gulp.spritesmith](https://github.com/twolfson/gulp.spritesmith), [gulp-usemin](https://www.npmjs.com/package/gulp-usemin), [gulp-uglify](https://www.npmjs.com/package/gulp-uglify), [gulp-replace-path](https://www.npmjs.com/package/gulp-replace-path), [gulp-minify-css](https://www.npmjs.com/package/gulp-minify-css), [gulp-less](https://github.com/plus3network/gulp-less), [gulp-jshint](https://www.npmjs.com/package/gulp-jshint)
+    * [babel-core](https://www.npmjs.com/package/babel)
+    * [babel-loader](https://www.npmjs.com/package/babel-loader)
+    * [babel-preset-es2015](https://www.npmjs.com/package/babel-preset-es2015)
+    * [browser-sync](https://github.com/BrowserSync/browser-sync)
+    * [eslint](https://www.npmjs.com/package/eslint)
+    * [eslint-loader](https://github.com/MoOx/eslint-loader), 
+    * [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base)
+    * [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
+    
+    **Gulp**
+
+    * [gulp](https://github.com/gulpjs/gulp)
+    * [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer)
+    * [gulp-chmod](https://www.npmjs.com/package/gulp-chmod)
+    * [gulp-group-css-media-queries](https://www.npmjs.com/package/gulp-group-css-media-queries)
+    * [gulp-less](https://github.com/plus3network/gulp-less)
+    * [gulp-minify-css](https://www.npmjs.com/package/gulp-minify-css)
+    * [gulp-replace-path](https://www.npmjs.com/package/gulp-replace-path) 
+    * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
+    * [gulp-svg-sprite](https://www.npmjs.com/package/gulp-svg-sprite)
+    * [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
+    * [gulp-usemin](https://www.npmjs.com/package/gulp-usemin)
+    * [gulp-webpack](https://www.npmjs.com/package/gulp-webpack)
+    * [requireDir](https://github.com/aseemk/requireDir)
+    * [run-sequence](https://www.npmjs.com/package/run-sequence)
 	
 ### Gulp 
 
 1. Update Line 11 in the [gulpfile](gulpfile.js) and change `proxy` to your local virtual host.
 
 2. Launch the project with `gulp serve`
-
-
 
 ### Sublime
 

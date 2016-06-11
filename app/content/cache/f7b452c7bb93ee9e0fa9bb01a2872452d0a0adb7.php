@@ -1,11 +1,10 @@
-<?php require 'config.php'; ?>
 <!DOCTYPE html>
-<html lang="de" class="no-js">
+<html lang="de" class="no-js <?php echo e($currentPage->slug); ?>">
 <head>
     <meta charset="UTF-8">
-    <title><?= $sitename; ?></title>
+    <title><?php echo e($sitename); ?> | <?php echo $__env->yieldContent('title'); ?> </title>
 
-    <meta name="description" content="">
+    <meta name="description" content="<?php echo e($currentPage->description); ?>">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
@@ -41,15 +40,24 @@
         <!--
         <script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
     -->
-    <!-- build:css assets/styles/styles.css -->
-        <link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
+
+    <!-- build:js1 /assets/js/modernizr.js -->
+        <script src="/assets/js/modernizr.js"></script>
+    <!-- endbuild -->
+
+    <!-- build:css /assets/styles/styles.css -->
         <link rel="stylesheet" href="/assets/styles/styles.css">
     <!-- endbuild -->
 </head>
 <body>
 
-	<header>
-		<h1><?= $sitename; ?></h1>
-	</header>
+        <?php echo $__env->make('layout.header', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+        <?php echo $__env->make('layout.content', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+		<?php echo $__env->make('layout.footer', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
 
-    <main>
+
+    <!-- build:js2 /assets/js/scripts.js -->
+		<script src="/assets/js/scripts.js"></script>
+	<!-- endbuild -->
+	</body>
+</html>

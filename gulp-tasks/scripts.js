@@ -1,13 +1,13 @@
-var gulp = require('gulp');
+var gulp = require('gulp'),
+    webpack = require('gulp-webpack');
 
 /**
  * JS lint
  * jshint-stylish: nicer output
  */
 
-// gulp.task('hintjs', function() {
-//     return gulp.src('app/assets/js/scripts.js')
-//     .pipe(jshint())
-//     .pipe(jshint.reporter('jshint-stylish'))
-//     .pipe(jshint.reporter('fail'));
-// });
+gulp.task('js', function() {
+    return gulp.src('app/assets/js/scripts.js')
+        .pipe(webpack( require('../webpack.config.js') ))
+        .pipe(gulp.dest('app/assets/js/'));
+})

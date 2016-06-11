@@ -9,7 +9,7 @@ var gulp = require('gulp'),
  * Open project in browser
  */
 
-gulp.task('serve', function() {
+gulp.task('serve', ['js'], function() {
     browserSync.init({
         proxy: "boilerplate.dev",
         browser: ['google chrome canary']
@@ -22,6 +22,7 @@ gulp.task('serve', function() {
 
     gulp.watch(['app/**/*.php'], reload);
     gulp.watch(['app/assets/styles/**/*.less'], ['styles', reload]);
+    gulp.watch(['app/assets/js/**/*.js'], ['js', reload]);
 });
 
 /**

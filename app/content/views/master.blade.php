@@ -57,7 +57,7 @@
 
 
     <!-- build:js2 /assets/js/scripts.js -->
-		<script src="/assets/js/scripts.js"></script>
+		<script src="/assets/js/bundle.js"></script>
 	<!-- endbuild -->
 	</body>
 </html>

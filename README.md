@@ -4,6 +4,40 @@ A combination of [Web Startet Kit](https://github.com/google/web-starter-kit), [
 
 ## Installation
 
+### Virtual hosts (on OSX 10.11)
+
+Add the following snippet to `httpd-vhosts.conf`
+
+`sudo nano /etc/apache2/extra/httpd-vhosts.conf`
+
+Replace [DOMAIN] with your domain, eg. `myproject.dev`  
+Replace [USER] with your OSX username  
+Replace [MYPROJECT] with the name of your project folder
+
+    <VirtualHost *:80>
+        ServerName [DOMAIN]
+        ServerAlias www.[DOMAIN]
+        DocumentRoot "/Users/[USER]/Sites/[MYPROJECT]/app"
+        ErrorLog "/private/var/log/apache2/[MYPROJECT].com-error_log"
+        CustomLog "/private/var/log/apache2/[MYPROJECT].com-access_log" common
+        ServerAdmin manuel@matuzo.at
+    </VirtualHost>
+
+Save and exit. Then
+
+`sudo nano /etc/hosts`
+
+and add
+
+`127.0.0.1 [DOMAIN] www.[DOMAIN]``
+
+Save and exit. Restart apache
+
+`sudo apachectl restart`
+
+
+For the initial setup on OSX and complete instructions check <https://coolestguidesontheplanet.com/how-to-set-up-virtual-hosts-in-apache-on-mac-osx-10-11-el-capitan/>
+
 ### Dependencies
 
 1. `npm install`
@@ -43,7 +77,13 @@ A combination of [Web Startet Kit](https://github.com/google/web-starter-kit), [
     * [gulp-webpack](https://www.npmjs.com/package/gulp-webpack)
     * [requireDir](https://github.com/aseemk/requireDir)
     * [run-sequence](https://www.npmjs.com/package/run-sequence)
-	
+
+1. `composer install`
+
+    Includes:
+
+    * [Laravel-Blade](https://github.com/PhiloNL/Laravel-Blade)
+
 ### Gulp 
 
 1. Update Line 11 in the [gulpfile](gulpfile.js) and change `proxy` to your local virtual host.
